@@ -1,0 +1,14 @@
+C:\Users\garya\Documents\Développment\Application\C#\TP_JeuPlusMoins\TP_JeuPlusMoins\bin\Debug\TP_JeuPlusMoins.exe.config
+C:\Users\garya\Documents\Développment\Application\C#\TP_JeuPlusMoins\TP_JeuPlusMoins\bin\Debug\TP_JeuPlusMoins.exe
+C:\Users\garya\Documents\Développment\Application\C#\TP_JeuPlusMoins\TP_JeuPlusMoins\bin\Debug\TP_JeuPlusMoins.pdb
+C:\Users\garya\Documents\Développment\Application\C#\TP_JeuPlusMoins\TP_JeuPlusMoins\obj\Debug\TP_JeuPlusMoins.csprojAssemblyReference.cache
+C:\Users\garya\Documents\Développment\Application\C#\TP_JeuPlusMoins\TP_JeuPlusMoins\obj\Debug\TP_JeuPlusMoins.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Développment\Application\C#\TP_JeuPlusMoins\TP_JeuPlusMoins\obj\Debug\TP_JeuPlusMoins.exe
+C:\Users\garya\Documents\Développment\Application\C#\TP_JeuPlusMoins\TP_JeuPlusMoins\obj\Debug\TP_JeuPlusMoins.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\TP_JeuPlusMoins\TP_JeuPlusMoins\bin\Debug\TP_JeuPlusMoins.exe.config
+C:\Users\garya\Documents\Developpment\Application\C#\TP_JeuPlusMoins\TP_JeuPlusMoins\bin\Debug\TP_JeuPlusMoins.exe
+C:\Users\garya\Documents\Developpment\Application\C#\TP_JeuPlusMoins\TP_JeuPlusMoins\bin\Debug\TP_JeuPlusMoins.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\TP_JeuPlusMoins\TP_JeuPlusMoins\obj\Debug\TP_JeuPlusMoins.csprojAssemblyReference.cache
+C:\Users\garya\Documents\Developpment\Application\C#\TP_JeuPlusMoins\TP_JeuPlusMoins\obj\Debug\TP_JeuPlusMoins.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Developpment\Application\C#\TP_JeuPlusMoins\TP_JeuPlusMoins\obj\Debug\TP_JeuPlusMoins.exe
+C:\Users\garya\Documents\Developpment\Application\C#\TP_JeuPlusMoins\TP_JeuPlusMoins\obj\Debug\TP_JeuPlusMoins.pdb
